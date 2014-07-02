@@ -1,0 +1,9 @@
+compile
+test
+compile
+test
+test PascalSuite
+test --help
+test 
+compile
+test
