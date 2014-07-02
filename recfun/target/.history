@@ -7,3 +7,11 @@ test --help
 test 
 compile
 test
+help
+test
+styleCheck
+:quit
+quit
+compile
+test
+styleCheck
